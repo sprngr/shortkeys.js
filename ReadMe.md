@@ -1,5 +1,5 @@
-`shortkeys.js`
-===========
+shortkeys.js
+============
 
 A jQuery plugin for easy keyboard shortcuts.
 
