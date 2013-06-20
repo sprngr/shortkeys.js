@@ -1,0 +1,10 @@
+Current Version: 2.0
+
+---------- 2.0
+- Changed licensing from WTFPLv2 to MIT
+- Removed jQuery dependency.
+- Merged all functions into one.
+
+---------- 1.0
+- Full support for use with Ctrl, Alt, and Shift keys.
+- Repo added to Github
