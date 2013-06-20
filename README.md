@@ -15,15 +15,15 @@ Usage
 -----
 
 Currently shortkeys supports shortcut creation with `Ctrl`, `Alt`, `Shift`, & `Meta` keys as a modifier, and one additional key.
-Example shortcut string: `"ctrl+a"`
+
+Example shortcut string: ```"ctrl+a"```
 
 Future versions should include support for more than 2 keys in a shortcut declaration.
 
 Simple usage:
 
-`
-shortkeys("ctrl+q",
-    function(){
-        alert("Ermagherd Ctrl+Q was pressed!");
-    });
-`
+```javascript
+shortkeys("ctrl+q",function(){
+    alert("Ermagherd Ctrl+Q was pressed!");
+});
+```
