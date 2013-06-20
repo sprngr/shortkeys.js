@@ -1,7 +1,7 @@
 shortkeys.js
 ============
 
-A javascript function for dirt simple keyboard shortcuts. Minimal functionality.
+A javascript function for dirt simple keyboard shortcuts.
 
 Installation
 ------------
